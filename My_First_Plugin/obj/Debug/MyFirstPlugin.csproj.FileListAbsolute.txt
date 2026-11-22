@@ -1,9 +1,0 @@
-H:\HS2_DX_Plugins\My_First_Plugin\bin\Debug\HS2_MyFirstPlugin.dll
-H:\HS2_DX_Plugins\My_First_Plugin\bin\Debug\HS2_MyFirstPlugin.pdb
-H:\HS2_DX_Plugins\My_First_Plugin\obj\Debug\MyFirstPlugin.csproj.AssemblyReference.cache
-H:\HS2_DX_Plugins\My_First_Plugin\obj\Debug\MyFirstPlugin.GeneratedMSBuildEditorConfig.editorconfig
-H:\HS2_DX_Plugins\My_First_Plugin\obj\Debug\MyFirstPlugin.AssemblyInfoInputs.cache
-H:\HS2_DX_Plugins\My_First_Plugin\obj\Debug\MyFirstPlugin.AssemblyInfo.cs
-H:\HS2_DX_Plugins\My_First_Plugin\obj\Debug\MyFirstPlugin.csproj.CoreCompileInputs.cache
-H:\HS2_DX_Plugins\My_First_Plugin\obj\Debug\HS2_MyFirstPlugin.dll
-H:\HS2_DX_Plugins\My_First_Plugin\obj\Debug\HS2_MyFirstPlugin.pdb
